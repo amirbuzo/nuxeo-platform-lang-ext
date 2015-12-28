@@ -26,4 +26,5 @@ Spanish: Daniel Tellez, Jose Luis de la Rosa
 Serbian - Cyrillic: Goran Ljubic
 Vietnamese: Le Tuan Dat, Daniel Tellez
 Czech: Miroslav Lednicky
+Albanian: Amir Buzo
 

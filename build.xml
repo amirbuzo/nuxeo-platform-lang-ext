@@ -95,6 +95,7 @@
 		<include name="messages_pt_BR.properties"/>
 	    <include name="messages_ru.properties"/>
       	<include name="messages_vn.properties"/>
+      	<include name="messages_sq.properties"/>
       </fileset>
     </copy>
   </target>  

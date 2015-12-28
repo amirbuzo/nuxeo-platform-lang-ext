@@ -32,6 +32,7 @@
       <supported-locale>ru_RU</supported-locale><!-- Russian - Russia -->
       <supported-locale>sr_RS</supported-locale><!-- Serbian(Cyrillic) - Serbia -->
       <supported-locale>vi_VN</supported-locale><!-- Vietnamese - Vietnam -->
+      <supported-locale>sq_AL</supported-locale><!-- Albanian - Albania -->
     </locale-config>
   </extension>
 
@@ -55,6 +56,8 @@
         to="nuxeo.war/WEB-INF/classes/messages_pt.properties"/>
     <copy from="nuxeo.war/WEB-INF/classes/messages_ru_RU.properties"
         to="nuxeo.war/WEB-INF/classes/messages_ru.properties"/>
+        <copy from="nuxeo.war/WEB-INF/classes/messages_sq_AL.properties"
+        to="nuxeo.war/WEB-INF/classes/messages_sq.properties"/>
 
   </install>
 
